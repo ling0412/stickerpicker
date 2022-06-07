@@ -2,14 +2,12 @@
   "packs": [
     "Toshinou.json",
     "slimetaoshite300.json",
-    "SpyxFamily_Sticker.json",
     "LINE_YURU_YURI.json",
     "GBOMiku.json",
     "moegirl.json",
     "HatsuneMiku6037.json",
     "Nacho_dayo_twitch_emoji_LVfE7QWEhvC8rUGj.json",
-    "chaotianjiang.json",
-    "KUMAKUMAKUMABEAR.json"
+    "chaotianjiang.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
