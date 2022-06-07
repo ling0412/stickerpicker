@@ -1,14 +1,14 @@
 {
   "packs": [
+    "Toshinou.json",
+    "slimetaoshite300.json",
+    "LINE_YURU_YURI.json",
     "GBOMiku.json",
     "moegirl.json",
     "HatsuneMiku6037.json",
     "Nacho_dayo_twitch_emoji_LVfE7QWEhvC8rUGj.json",
-    "needygirloverdose.json",
-    "KUMAKUMAKUMABEAR.json",
-    "slimetaoshite300.json",
-    "LINE_YURU_YURI.json",
-    "Toshinou.json"
+    "chaotianjiang.json",
+    "KUMAKUMAKUMABEAR.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
